@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **Información del programa**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://ecored-sena.github.io/ANIMACION_3D_INFO/](https://ecored-sena.github.io/ANIMACION_3D_INFO/)
 
 #
